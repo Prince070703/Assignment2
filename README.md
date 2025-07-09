@@ -1,6 +1,6 @@
 # Assignment2
 
-**TASK 1 :-**
+**TASK 1(module3a.py) :-**
 
 Even or Odd Number Checker
 This Python script checks whether a given number is even or odd.
@@ -20,7 +20,7 @@ Enter the number : 13
 
 
 
-**TASK 2 :-**
+**TASK 2(module3b.py) :-**
 Sum of Integers from 1 to 50 Using a for Loop
 This Python script calculates the sum of integers from 1 to 50 using a for loop.
 📄 Code Description:
